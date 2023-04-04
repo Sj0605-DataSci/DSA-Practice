@@ -1,10 +1,10 @@
 # DSA-Practice
 Its a repo containing solved DSA questions by me in Python
 
-# Day-1
-contains duplicate - Easy,
-group anagrams - Medium,
-is anagram - Easy,
-product array except self - Medium,
-top k frequent - Medium,
-two sum - Easy
+# Array and Hashing
+1. contains duplicate - Easy,
+2. group anagrams - Medium,
+3. is anagram - Easy,
+4. product array except self - Medium,
+5. top k frequent - Medium,
+6. two sum - Easy
