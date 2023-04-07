@@ -16,3 +16,4 @@ Its a repo containing solved DSA questions by me in Python
 # Two Pointers
 1. Valid Palindrome - Easy,
 2. Two Sum - Medium,
+3. Three Sum - Medium,
