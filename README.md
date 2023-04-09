@@ -17,4 +17,9 @@ Its a repo containing solved DSA questions by me in Python
 1. Valid Palindrome - Easy,
 2. Two Sum - Medium,
 3. Three Sum - Medium,
-4. Container With Most Water - Medium,  
+4. Container With Most Water - Medium, 
+5. Trapping Rain Water - Hard
+
+# Sliding Window
+1. Best Time to Buy And Sell Stock - Easy,
+
