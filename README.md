@@ -23,5 +23,7 @@ Its a repo containing solved DSA questions by me in Python
 # Sliding Window
 16. Best Time to Buy And Sell Stock - Easy,
 17. Longest Substring Without Repeating Characters - Medium,
-18. Longest Repeating Character Replacement - Medium.
+18. Longest Repeating Character Replacement - Medium,
+19. Permutation in a string - Medium,
+20. Minimum Window Substring - Hard
 
