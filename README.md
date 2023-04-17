@@ -28,3 +28,6 @@ Its a repo containing solved DSA questions by me in Python
 20. Minimum Window Substring - Hard,
 21. Sliding Window Maximum - Hard
 
+# Stack
+22. Valid Parentheses - Easy,
+
