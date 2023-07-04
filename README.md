@@ -29,5 +29,8 @@ Its a repo containing solved DSA questions by me in Python
 21. Sliding Window Maximum - Hard
 
 # Stack
-22. Valid Parentheses - Easy,
+22. Valid Parentheses - Easy
+
+# Binary Search
+23. Search in rotated sorted array - Medium
 
