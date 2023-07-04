@@ -24,15 +24,16 @@ Its a repo containing solved DSA questions by me in Python
 18. Trapping Rain Water - Hard
 
 # Sliding Window
-16. Best Time to Buy And Sell Stock - Easy,
-17. Longest Substring Without Repeating Characters - Medium,
-18. Longest Repeating Character Replacement - Medium,
-19. Permutation in a string - Medium,
-20. Minimum Window Substring - Hard,
-21. Sliding Window Maximum - Hard
+19. Best Time to Buy And Sell Stock - Easy,
+20. Longest Substring Without Repeating Characters - Medium,
+21. Longest Repeating Character Replacement - Medium,
+22. Permutation in a string - Medium,
+23. Minimum Window Substring - Hard,
+24. Sliding Window Maximum - Hard
 
 # Stack
-22. Valid Parentheses - Easy
+25. Valid Parentheses - Easy,
+26. Generate Parentheses - Medium
 
 # Binary Search
 23. Search in rotated sorted array - Medium
