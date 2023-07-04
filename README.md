@@ -38,3 +38,7 @@ Its a repo containing solved DSA questions by me in Python
 # Binary Search
 27. Search in rotated sorted array - Medium
 
+# Math & Geometry
+28. Rotate Image - Medium,
+29. Spiral Matrix - Medium
+
