@@ -36,5 +36,5 @@ Its a repo containing solved DSA questions by me in Python
 26. Generate Parentheses - Medium
 
 # Binary Search
-23. Search in rotated sorted array - Medium
+27. Search in rotated sorted array - Medium
 
