@@ -3,14 +3,16 @@ Its a repo containing solved DSA questions by me in Python
 
 # Array and Hashing
 1. Contains Duplicate - Easy,
-2. Is Anagram - Easy,
+2. Valid Anagram - Easy,
 3. Two Sum - Easy
 4. Group Anagrams - Medium,
-5. Product Array Except Self - Medium,
-6. Top k Frequent - Medium,
-7. Valid Sudoku - Medium
-8. Encode Decode String - Medium
-9. Longest Consecutive Sequence - Medium
+5. Top k Frequent - Medium,
+6. Product Array Except Self - Medium,
+7. Valid Sudoku - Medium,
+8. Encode Decode String - Medium,
+9. Longest Consecutive Sequence - Medium,
+10. Sort Colors - Medium,
+11. Find the index of the first occurence of the string - Easy/Hard
 10. First Missing Positive Number - Hard
 
 # Two Pointers
