@@ -13,14 +13,15 @@ Its a repo containing solved DSA questions by me in Python
 9. Longest Consecutive Sequence - Medium,
 10. Sort Colors - Medium,
 11. Find the index of the first occurence of the string - Easy/Hard
-10. First Missing Positive Number - Hard
+12. First Missing Positive Number - Hard
 
 # Two Pointers
-11. Valid Palindrome - Easy,
-12. Two Sum - Medium,
-13. Three Sum - Medium,
-14. Container With Most Water - Medium, 
-15. Trapping Rain Water - Hard
+13. Valid Palindrome - Easy,
+14. Move Zeroes - Easy,
+15. Two Sum II Input Array is sorted - Medium,
+16. 3Sum - Medium,
+17. Container With Most Water - Medium, 
+18. Trapping Rain Water - Hard
 
 # Sliding Window
 16. Best Time to Buy And Sell Stock - Easy,
